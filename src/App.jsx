@@ -1,16 +1,16 @@
 import React from "react";
 
 function App() {
-  const a = 2;
+  // const a = 22;
   return (
     <div className="App">
-            <header className="App-header">
+      <header className="App-header">
         <p>
           Edit
           <code>src/App.js</code>
           and save to reload.
         </p>
-           <a
+        <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
